@@ -16,8 +16,7 @@ header {
 
 main {
   width: 1000px;
-  height: 800px;
-  display: block;
+  display: table;
   background-color: aliceblue;
   border-radius: 10px;
   margin-top: 30px;
@@ -33,6 +32,7 @@ main {
   display: table;
   margin-top: 25px;
   margin-left: 25px;
+  margin-bottom: 25px;
 }
 
 .box {
